@@ -7,7 +7,6 @@ import cn.bugstack.chatglm.session.OpenAiSession;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.zmqx.chatglm.dto.RequestDTO;
 import com.zmqx.chatglm.listner.ChatGLMEventSourceListener;
-import lombok.extern.slf4j.Slf4j;
 import org.jetbrains.annotations.NotNull;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -24,7 +23,6 @@ import java.util.ArrayList;
  * @Date 2023/12/20 16:28
  * @Describes
  */
-@Slf4j
 @RestController
 public class ChatGLMController {
 
