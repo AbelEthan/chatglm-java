@@ -1,0 +1,5 @@
+run = "javac com.zmqx.chatglm.ChatGLMApplication.java && java com.zmqx.chatglm.ChatGLMApplication"
+language = "java"
+
+[debugger]
+program = "Main"
