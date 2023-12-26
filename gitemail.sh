@@ -2,7 +2,7 @@
 
 git filter-branch -f --env-filter '
 
-OLD_EMAIL="abelethan@devide"
+OLD_EMAIL="30233209+abelethan@users.noreply.github.com"
 CORRECT_NAME="AbelEthan"
 CORRECT_EMAIL="abelethan@vip.qq.com"
 
